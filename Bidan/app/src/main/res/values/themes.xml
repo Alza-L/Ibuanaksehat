@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Bidan" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:color">@color/primary</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+    </style>
+
+    <style name="Theme.Bidan" parent="Base.Theme.Bidan" />
+</resources>

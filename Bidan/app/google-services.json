@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531268514930",
+    "project_id": "ibu-anak-sehat",
+    "storage_bucket": "ibu-anak-sehat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531268514930:android:9d458a9b129385dfbd3eeb",
+        "android_client_info": {
+          "package_name": "com.example.bidan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9-R4aH7U59RGf4xO42n7JfbO666I7c-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531268514930:android:dea308a91036b5cabd3eeb",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9-R4aH7U59RGf4xO42n7JfbO666I7c-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
